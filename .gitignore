@@ -1,0 +1,11 @@
+# Ignore macOS junk
+.DS_Store
+
+# Ignore JetBrains IDE (CLion, IntelliJ, etc.)
+.idea/
+*.iml
+
+# Ignore build files
+cmake-build-debug/
+cmake-build-release/
+build/
