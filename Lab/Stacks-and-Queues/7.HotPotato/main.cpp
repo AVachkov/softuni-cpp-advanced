@@ -2,8 +2,9 @@
 #include <string>
 #include <sstream>
 #include <queue>
+#include <vector> // for the math approach
 
-int main()
+int main_b() // queue approach
 {
 	std::string firstLine;
 	std::getline(std::cin, firstLine);
