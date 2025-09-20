@@ -1,6 +1,6 @@
 # SoftUni C++ Advanced
 
-This repository contains lab and exercise solutions from the **SoftUni C++ Advanced January 2025** course.
+This repository contains lab, exercise and exam preparation solutions from the **SoftUni C++ Advanced January 2025** course.
 
 ## Course Info
 
